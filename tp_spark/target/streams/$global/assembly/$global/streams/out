@@ -1,7 +1,7 @@
 [0m[[0mdebug[0m] [0mCalculate mappings...[0m
 [0m[[0minfo[0m] [0mChecking every *.class/*.jar file's SHA-1.[0m
 [0m[[0minfo[0m] [0mMerging files...[0m
-[0m[[0minfo[0m] [0mSHA-1: db0e987d3f0973edb96168a32505b2c7c91caefb[0m
+[0m[[0minfo[0m] [0mSHA-1: bac0504c859bf0f3d0033f2770b80568517e27ab[0m
 [0m[[0minfo[0m] [0mPackaging /home/raphael/Bureau/HadoopSpark/INF729/tp_spark/target/scala-2.11/tp_spark-assembly-1.0.jar ...[0m
 [0m[[0mdebug[0m] [0mInput file mappings:[0m
 [0m[[0mdebug[0m] [0m	com/sparkProject/Job$$anonfun$main$1.class[0m

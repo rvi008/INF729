@@ -87,6 +87,8 @@ object JobML {
   .setRawPredictionCol("prediction")
 
   val accuracy = evaluator.evaluate(predictions)
-  println("Test Error = " + (1.0 - accuracy)) //test error below 5%
+  println("Test Error = " + (1.0 - accuracy)) //test error around 5%
+
+  predictions.groupBy("label","prediction").count.show()
   }
 }
